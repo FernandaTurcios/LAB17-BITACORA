@@ -1,0 +1,14 @@
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\bin\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.exe
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\bin\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.deps.json
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\bin\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.runtimeconfig.json
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\bin\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.dll
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\bin\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.pdb
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.AssemblyInfoInputs.cache
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.AssemblyInfo.cs
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.csproj.CoreCompileInputs.cache
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.dll
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\refint\L11 - Turcios Estrada, Jennifer Fernanda.dll
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.pdb
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\L11 - Turcios Estrada, Jennifer Fernanda.genruntimeconfig.cache
+C:\Users\jenfe\Documents\L11 - Turcios Estrada, Jennifer Fernanda\obj\Debug\net8.0\ref\L11 - Turcios Estrada, Jennifer Fernanda.dll
