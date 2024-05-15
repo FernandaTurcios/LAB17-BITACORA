@@ -1,0 +1,14 @@
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.AssemblyInfoInputs.cache
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.AssemblyInfo.cs
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.csproj.CoreCompileInputs.cache
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\bin\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.exe
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\bin\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.deps.json
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\bin\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.runtimeconfig.json
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\bin\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.dll
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\bin\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.pdb
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.dll
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\refint\L5-JenniferFernandaTurciosEstrada-1088724.dll
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.pdb
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\L5-JenniferFernandaTurciosEstrada-1088724.genruntimeconfig.cache
+C:\Users\jenfe\Documents\L5-JenniferFernandaTurciosEstrada-1088724\obj\Debug\net8.0\ref\L5-JenniferFernandaTurciosEstrada-1088724.dll
